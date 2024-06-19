@@ -43,7 +43,7 @@
     "escape-html": "^1.0.3",
     "escape-string-regexp": "^4.0.0",
     "js-yaml": "^3.14.0",
-    "marked": "^1.2.2",
+    "marked": "^13.0.0",
     "matrix-bot-sdk": "0.5.4",
     "matrix-discord-parser": "0.1.5",
     "mime": "^2.4.6",
