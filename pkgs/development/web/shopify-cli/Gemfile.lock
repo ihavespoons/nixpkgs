@@ -5,7 +5,7 @@ GEM
     bugsnag (6.24.2)
       concurrent-ruby (~> 1.0)
     concurrent-ruby (1.1.9)
-    ffi (1.15.5)
+    ffi (1.17.0)
     liquid (5.2.0)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
